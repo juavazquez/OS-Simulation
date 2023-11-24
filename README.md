@@ -1,5 +1,5 @@
 # T.U.K.I.
-## Sistemas Operativos - 2023 1C
+## Sistemas Operativos
 ## Grupo KernelFlow
 
 - Condori Joselin
